@@ -1,6 +1,8 @@
 = nuwords
 
-Description goes here.
+Numeric words 
+  
+    42.in_words #=> "fourty-two"
 
 == Copyright
 
