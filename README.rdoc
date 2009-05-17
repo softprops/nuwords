@@ -1,0 +1,7 @@
+= nuwords
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 softprops. See LICENSE for details.
