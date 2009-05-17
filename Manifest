@@ -1,0 +1,8 @@
+lib/nuwords.rb
+LICENSE
+Rakefile
+README.rdoc
+test/nuwords_test.rb
+test/test_helper.rb
+VERSION
+Manifest

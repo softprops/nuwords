@@ -54,3 +54,13 @@ Rake::RDocTask.new do |rdoc|
   rdoc.rdoc_files.include('lib/**/*.rb')
 end
 
+require 'echoe'
+Echoe.new('nuwords','0.1.0') do |g|
+  g.description     = 'convert numbers to words'
+  g.url             = 'http://github.com/softprops/nuwords'
+  g.author          = 'softprops'
+  g.email           = 'd.tangren@gmail.com'
+  g.ignore_pattern  = ['tmp/*','script/*']
+  g.development_dependencies =[]
+end
+
